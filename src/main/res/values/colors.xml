@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorBackground">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="altitude">#1fcedd</color>
+    <color name="speed">#f4784a</color>
+
+    <color name="tracking">#3ece40</color>
+    <color name="error">#de2c3a</color>
+
+</resources>

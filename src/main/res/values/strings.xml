@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mountain Race</string>
+    <string name="start_btn">Start</string>
+    <string name="stop_btn">Stop</string>
+    <string name="clear">Clear</string>
+
+    <string name="tv_lat_text">Latitude: N/A</string>
+    <string name="tv_long_text">Longitude: N/A</string>
+
+    <string name="speed">Speed</string>
+    <string name="max">Max:</string>
+    <string name="min">Min:</string>
+    <string name="average">Average:</string>
+
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+
+    <string name="altitude">Altitude</string>
+    <string name="gain">Gain:</string>
+    <string name="loss">Loss:</string>
+
+</resources>
